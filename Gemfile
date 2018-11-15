@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "boxen",                  "~> 2.5.0"
-gem "hiera",                  "~> 1.1"
+gem "hiera",                  "~> 1.3"
 gem "librarian-puppet",       "~> 0.9.9"
 gem "puppet",                 "3.3.1"
 gem "puppet-lint",            "0.3.2"
