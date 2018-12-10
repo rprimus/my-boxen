@@ -7,7 +7,7 @@ gem "puppet",                 "3.8.7"
 gem "puppet-lint",            "2.3.6"
 gem "puppetlabs_spec_helper", "2.12.0"
 gem "open4",                  "~> 1.3"
-gem "rake",                   "12.3.1"
+gem "rake",                   "12.3.2"
 gem "rspec-puppet",           "2.7.2"
 
 group :development do
