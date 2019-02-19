@@ -8,7 +8,7 @@ gem "puppet-lint",            "2.3.6"
 gem "puppetlabs_spec_helper", "2.13.1"
 gem "open4",                  "~> 1.3"
 gem "rake",                   "12.3.2"
-gem "rspec-puppet",           "2.7.2"
+gem "rspec-puppet",           "2.7.3"
 
 group :development do
   gem "aws-sdk", "~> 3.0"

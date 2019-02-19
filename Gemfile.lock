@@ -673,7 +673,7 @@ GEM
     rspec-mocks (3.8.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-puppet (2.7.2)
+    rspec-puppet (2.7.3)
       rspec
     rspec-support (3.8.0)
     sawyer (0.5.5)
@@ -696,7 +696,7 @@ DEPENDENCIES
   puppetlabs_spec_helper (= 2.13.1)
   rake (= 12.3.2)
   rbvmomi (>= 1.6.0)
-  rspec-puppet (= 2.7.2)
+  rspec-puppet (= 2.7.3)
 
 BUNDLED WITH
    1.16.6
