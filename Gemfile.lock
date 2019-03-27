@@ -621,7 +621,7 @@ GEM
       json_pure
     highline (1.7.10)
     jmespath (1.4.0)
-    json (2.1.0)
+    json (2.2.0)
     json_pure (1.8.6)
     librarian (0.1.2)
       highline
@@ -635,7 +635,7 @@ GEM
       metaclass (~> 0.0.1)
     multipart-post (2.0.0)
     net-ssh (5.2.0)
-    nokogiri (1.10.1)
+    nokogiri (1.10.2)
       mini_portile2 (~> 2.4.0)
     octokit (2.7.2)
       sawyer (~> 0.5.2)
@@ -656,7 +656,7 @@ GEM
       puppet-syntax (~> 2.0)
       rspec-puppet (~> 2.0)
     rake (12.3.2)
-    rbvmomi (2.0.1)
+    rbvmomi (2.1.0)
       builder (~> 3.0)
       json (>= 1.8)
       nokogiri (~> 1.5)
