@@ -665,17 +665,17 @@ GEM
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
       rspec-mocks (~> 3.8.0)
-    rspec-core (3.8.0)
+    rspec-core (3.8.2)
       rspec-support (~> 3.8.0)
-    rspec-expectations (3.8.3)
+    rspec-expectations (3.8.6)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-mocks (3.8.0)
+    rspec-mocks (3.8.2)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
-    rspec-puppet (2.7.5)
+    rspec-puppet (2.7.7)
       rspec
-    rspec-support (3.8.0)
+    rspec-support (3.8.3)
     sawyer (0.5.5)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
@@ -696,7 +696,7 @@ DEPENDENCIES
   puppetlabs_spec_helper (= 2.14.1)
   rake (= 13.0.0)
   rbvmomi (>= 1.6.0)
-  rspec-puppet (= 2.7.5)
+  rspec-puppet (= 2.7.7)
 
 BUNDLED WITH
    1.16.6
