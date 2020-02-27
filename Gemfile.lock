@@ -635,7 +635,7 @@ GEM
       metaclass (~> 0.0.1)
     multipart-post (2.0.0)
     net-ssh (5.2.0)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octokit (2.7.2)
       sawyer (~> 0.5.2)
@@ -695,8 +695,8 @@ DEPENDENCIES
   puppet-lint (= 2.4.2)
   puppetlabs_spec_helper (= 2.14.1)
   rake (= 13.0.1)
-  rbvmomi (>= 1.6.0)
+  rbvmomi (>= 2.3.0)
   rspec-puppet (= 2.7.8)
 
 BUNDLED WITH
-   1.16.6
+   1.17.3
