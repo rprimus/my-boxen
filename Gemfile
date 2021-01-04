@@ -14,5 +14,5 @@ gem "rspec-puppet",           "2.8.0"
 group :development do
   gem "aws-sdk", "~> 3.0"
   gem "net-ssh"
-  gem "rbvmomi", ">= 2.3.0"
+  gem "rbvmomi", ">= 3.0.0"
 end
